@@ -44,6 +44,8 @@ main>* {
     border-top-right-radius: 20px ;
     margin-top: 15px;
     border: solid 4px rgb(0, 0, 0);
+    max-width: 250px;
+    min-width: 150px;
 
 }
 
@@ -86,6 +88,9 @@ main>* {
     border-radius: 10px;
     border-top-right-radius: 20px ;
     border: solid 4px rgb(0, 0, 0);
+    max-width: 150px;
+    min-width: 100px;
+
 }
 
 .pokedex >* {
